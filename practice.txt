@@ -1,2 +1,2 @@
 It is a practice file.
-my stupid boss still prefers SVN.
+ SVN.
